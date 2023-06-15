@@ -1,0 +1,23 @@
+{
+  "name": "matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derzunov/matrix.git"
+  },
+  "author": "derzunov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derzunov/matrix/issues"
+  },
+  "homepage": "https://github.com/derzunov/matrix#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
